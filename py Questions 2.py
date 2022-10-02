@@ -101,3 +101,9 @@ print set(list(a)) | set(list(b))
 #Note do not change &&& or ||| or & or |
 #Only change those '&&' which have space on both sides.
 #Only change those '|| which have space on both sides.  
+
+Key Points to Remember:
+%-format method is very old method for interpolation and is not recommended to use as it decrease the code readability.
+In str.format() method we pass the string object to the format() function for string interpolation.
+In template method we make a template by importing template class from built in string module.
+Literal String Interpolation method is powerful interpolation method which is easy to use and increase the code readability.
