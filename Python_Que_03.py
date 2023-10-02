@@ -1,4 +1,5 @@
-# Program to find factorial of a number
+'''
+Program to find factorial of a number
 #i.e multiplying a entered number with all the previous natural number.
 
 #Example:
@@ -11,7 +12,7 @@
 # output will be 120.
 
 #Factorial is only possible of positive Numbers so input must be positive to get valid answer
-
+'''
 
 
 n = int(input("Enter the number you want factorial of :- "))
