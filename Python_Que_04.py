@@ -12,6 +12,8 @@
 #Output
 #3,6,9,12,15,18.
 
+#Testcases: 
+
 x = int(input("Enter a number, of whose mutliples you want. X = "))
 n = int(input("Till what number do you want multiples? N = "))
 
