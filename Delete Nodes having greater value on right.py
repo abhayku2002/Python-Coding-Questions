@@ -37,7 +37,7 @@ Constraints:
 1 ≤ element of linked list ≤ 105
 '''
 
-#testcases:
+#testcases
 class Solution:
     def compute(self,head):
         def reverse(head):
