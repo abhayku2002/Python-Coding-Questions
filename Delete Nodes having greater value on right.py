@@ -36,6 +36,8 @@ Constraints:
 1 ≤ size of linked list ≤ 105
 1 ≤ element of linked list ≤ 105
 '''
+
+
 class Solution:
     def compute(self,head):
         def reverse(head):
