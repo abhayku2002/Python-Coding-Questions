@@ -1,3 +1,4 @@
+'''
 Task
 Given an integer, , perform the following conditional actions:
 
@@ -37,7 +38,7 @@ Explanation 1
 
  and  is even, so it is not weird.
 
-
+'''
 Solution 
  n = int(input().strip())
 check = {True: "Not Weird", False: "Weird"}
